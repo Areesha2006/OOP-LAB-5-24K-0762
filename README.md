@@ -9,10 +9,10 @@ Here are the sample outputs of the programs:
 ![Task 1Output](outputs/task1_Output.png)
 
 ### Task 2:
-![Task 2 Output](outputs/task2_Output.png)
+![Task 2 Output](outputs/Task2_Output.png)
 
 ### Task 3:
-![Task 3 Output](outputs/Task3_Output.png)
+![Task 3 Output](outputs/task3_Output.png)
 
 ### Task 4:
 ![Task 4 Output](outputs/task4_Output.png)
